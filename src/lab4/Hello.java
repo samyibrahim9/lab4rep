@@ -12,7 +12,9 @@ public class Hello {
 
 	public void methodA(void ) { }
 
-	public void methodB(void) { }
+	public void methodB(void) { 
+		System.oyt.println("Test");
+	}
 
 	public void methodC(void) { }
 }
